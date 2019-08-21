@@ -1,0 +1,133 @@
+    1  sudo apt-get install clang
+    2  sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1 libbz2-1.0:i386
+    3  swift --version
+    4  sudo apt-get install clang libicu-dev -y
+    5  sudo dpkg --configure -a
+    6  sudo apt-get install clang libicu-dev -y
+    7  sudo dpkg -i google-chrome-stable_current_amd64.deb
+    8  sudo dpkg -i google-chrome-stable_current_amd64.deb
+    9  sudo apt -f install
+   10  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   11  gedit .profile
+   12  swift --version
+   13  sudo apt-get install clang libicu-dev
+   14  swift
+   15  gedit .profile
+   16  swift
+   17  sudo vi ~/.bashrc
+   18  gedit .profile
+   19  swift
+   20  gedit .profile
+   21  sudo apt install gedit
+   22  gedit .profile
+   23  cd $HOME/Downloads
+   24  chmod +x ./qt*.run
+   25  sudo dpkg -i qt-unified-linux-x64-3.1.1-online.run
+   26  sudo qt-unified-linux-x64-3.1.1-online.run
+   27  chmod +x ./qt-unified-linux-x64-3.1.1-online.run
+   28  sudo chmod +x ./qt-unified-linux-x64-3.1.1-online.run
+   29  g
+   30  t
+   31  main.cpp
+   32  gcc main
+   33  gcc main.cpp
+   34  g++ main.cpp
+   35  ./a.out
+   36  g++ main.cpp
+   37  ./a.out
+   38  g++ main.cpp
+   39  ./a.out
+   40  g++ main.cpp
+   41  ./a.out
+   42  run
+   43  g++ main.cpp
+   44  ./a.out
+   45  touch ЛазурныйЗначок_2
+   46  touch ЛазурныйЗначок_3
+   47  g++ main.cpp
+   48  ./a.out
+   49  g++ main.cpp
+   50  ./a.out
+   51  g++ main.cpp
+   52  ./a.out
+   53  g++ main.cpp
+   54  ./a.out
+   55  g++ main.cpp
+   56  ./a.out
+   57  g++ main.cpp
+   58  ./a.out
+   59  g++ main.cpp
+   60  ./a.out
+   61  g++ main.cpp
+   62  ./a.out
+   63  g++ main.cpp
+   64  ./a.out
+   65  g++ main.cpp
+   66  ./a.out
+   67  g++ main.cpp
+   68  ./a.out
+   69  g++ main.cpp
+   70  ./a.out
+   71  g++ main.cpp
+   72  ./a.out
+   73  g++ main.cpp
+   74  ./a.out
+   75  g++ main.cpp
+   76  ./a.out
+   77  g++ main.cpp
+   78  ./a.out
+   79  g++ new file b
+   80  g++ new new_file.cpp
+   81  g++ new_file.cpp
+   82  ./a.out
+   83  g++ new_file.cpp
+   84  ./a.out
+   85  touch ЛазурныйЗначок_1 ЛазурныйЗначок_2 ЛазурныйЗначок_3 ЛазурныйЗначок_4 ЛазурныйЗначок_5 ЛазурныйЗначок_6 ЛазурныйЗначок_7 ЛазурныйЗначок_8 ЛазурныйЗначок_9 ЛазурныйЗначок_10 ЛазурныйЗначок_11 ЛазурныйЗначок_12 ЛазурныйЗначок_13 ЛазурныйЗначок_14 ЛазурныйЗначок_15 ЛазурныйЗначок_16 ЛазурныйЗначок_17 ЛазурныйЗначок_18 ЛазурныйЗначок_19 ЛазурныйЗначок_20 ЛазурныйЗначок_21 ЛазурныйЗначок_22 ЛазурныйЗначок_23 ЛазурныйЗначок_24 ЛазурныйЗначок_25 ЛазурныйЗначок_26 ЛазурныйЗначок_27 ЛазурныйЗначок_28 ЛазурныйЗначок_29 ЛазурныйЗначок_30 ЛазурныйЗначок_31 ЛазурныйЗначок_32 ЛазурныйЗначок_33 ЛазурныйЗначок_34 ЛазурныйЗначок_35 ЛазурныйЗначок_36 ЛазурныйЗначок_37 ЛазурныйЗначок_38 ЛазурныйЗначок_39 ЛазурныйЗначок_40 ЛазурныйЗначок_41 ЛазурныйЗначок_42 ЛазурныйЗначок_43 ЛазурныйЗначок_44 ЛазурныйЗначок_45 ЛазурныйЗначок_46 ЛазурныйЗначок_47 ЛазурныйЗначок_48 ЛазурныйЗначок_49 ЛазурныйЗначок_50 ЛазурныйЗначок_51 ЛазурныйЗначок_52 ЛазурныйЗначок_53 ЛазурныйЗначок_54 ЛазурныйЗначок_55 ЛазурныйЗначок_56 ЛазурныйЗначок_57 ЛазурныйЗначок_58 ЛазурныйЗначок_59 ЛазурныйЗначок_60 ЛазурныйЗначок_61 ЛазурныйЗначок_62 ЛазурныйЗначок_63 ЛазурныйЗначок_64 ЛазурныйЗначок_65 ЛазурныйЗначок_66 ЛазурныйЗначок_67 ЛазурныйЗначок_68
+   86  ./mucommander.sh
+   87  mucommander.sh
+   88  chmod +x ./mucommander.sh
+   89  ./mucommander.sh
+   90  sudo apt-get install filezilla
+   91  sudo apt-get update
+   92  sudo apt-get install monodevelop
+   93  sudo apt-get install mono-reference-assemblies-3.5
+   94  sudo apt-get Inkscape
+   95  sudo apt-get inkscape
+   96  ps aux | grep android
+   97  pgrep android
+   98  pgrep androidstudio
+   99  ps aux | grep android
+  100  pgrep android
+  101  pkill android
+  102  killall -9 android studio
+  103  pidoff android
+  104  pidof android-studio
+  105  killall -9 android-studio
+  106  pidof android
+  107  kill android
+  108  pidof android
+  109  sudo pidof android
+  110  sudo alsamixer
+  111  $ssh -X [username]@osc-[N].edu.innopolis.ru 
+  112  $ sudo apt-get install openssh-client openssh-server
+  113  sudo apt-get install openssh-client openssh-server
+  114  sudo service ssh restart
+  115  sudo /etc/init.d/ssh restart
+  116  $ssh -X [username]@osc-[N].edu.innopolis.ru 
+  117  whoami
+  118  hostname
+  119  man man
+  120  man -X
+  121  man X
+  122  $ssh [username]@osc-[N].edu.innopolis.ru 
+  123  man man less
+  124  head
+  125  man man head
+  126  cd 
+  127  ls < list.txt
+  128  touch list.txt
+  129  ls < list.txt
+  130  mkdir ~/week1
+  131  cd ~/week1
+  132  touch ex2.txt
+  133  history > ex2.txt
