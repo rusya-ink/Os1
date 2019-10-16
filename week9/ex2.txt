@@ -1,0 +1,5 @@
+When number of unique pages increases, number of hits decreases and so does hit/miss ratio.
+When number of unique pages decreases, number of hits increases and so does hit/miss ratio.
+With larger number of pages frames increases hit/miss ratio; opposite is also true.
+With repeats like 1, 1, 1... hit/miss ratio increases;
+And with sequences with no repeats like 1, 2, 3, 4, 5, ... 100 hit/miss ratio decreases.
