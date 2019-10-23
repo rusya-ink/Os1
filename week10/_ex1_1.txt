@@ -1,0 +1,5 @@
+total 0
+8535352 -rw-rw-r-- 3 rusya rusya 0 окт 23 20:46 _ex1_1.txt
+8535352 -rw-rw-r-- 3 rusya rusya 0 окт 23 20:46 _ex1_2.txt
+8535352 -rw-rw-r-- 3 rusya rusya 0 окт 23 20:46 _ex1.txt
+8535376 -rw-rw-r-- 2 rusya rusya 0 окт 23 20:41 _ex2.txt

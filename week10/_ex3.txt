@@ -1,0 +1,8 @@
+-rw-rw-r-- 1 rusya rusya 0 окт 23 21:13 _ex3.txt
+-rwxrw-rwx 1 rusya rusya 52 окт 23 21:13 _ex3.txt
+-rwxrwxrwx 1 rusya rusya 105 окт 23 21:14 _ex3.txt
+
+
+6 6 0 -rw-rw---- - read and write permissions for owner and group, no permissions for other
+7 7 5 -rwxrwx--x - all permissions for owner and group, execute permissions for other
+7 7 7 -rwxrwxrwx - all permissions for all
